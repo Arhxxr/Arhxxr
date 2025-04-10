@@ -1,6 +1,7 @@
 
 <div align="center">
-  
+  <img src="https://github.com/user-attachments/assets/4eb8bbe5-5972-4923-a77d-096b66a9afa0" height=200/>
+
   # <img src="https://emojis.slackmojis.com/emojis/images/1643515329/13477/abra_pokemon.gif?1643515329" width="40"/>Hi! I'm Arham‎‎‎
   
   <img src="https://emojis.slackmojis.com/emojis/images/1643515368/13863/magicwand_green.gif?1643515368" width="15"/> Bridging logic and creativity
