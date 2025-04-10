@@ -61,4 +61,6 @@ ___
   <picture><img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=xkyt70226rco1hql36kgymf7v&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false" height=130></picture>
   <picture><img src="https://nirzak-streak-stats.vercel.app/?user=Arhxxr&theme=radical&hide_border=true" height=130></picture>
 
+  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=arhxxr.arhxxr)
+  
 </div>
