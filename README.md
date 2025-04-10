@@ -14,12 +14,10 @@
     
 ___
   ### Languages and Tools
-  <img src="https://skillicons.dev/icons?i=py,c,cs,cpp,java,js,kotlin,html,css,dart,mysql,nodejs,react,unity,unreal" />
+  <img src="https://skillicons.dev/icons?i=py,c,cs,cpp,java,js,kotlin,html,css,mysql,nodejs,react,unity,unreal" />
   <p>
     <br/>
     <img alt="OpenGL" src="https://img.shields.io/badge/OpenGL-FFFFFF?style=for-the-badge&logo=opengl" />
-    <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" />
-    <img alt="Firebase" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
     <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
     <img alt="Xampp" src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white" />
     <img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
