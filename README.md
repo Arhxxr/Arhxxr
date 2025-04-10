@@ -53,7 +53,7 @@ ___
   ### Try out some of the games I've worked on</h3>
   <b>
   
-  ### [Shadowrought](https://aipatch.itch.io/shadowrought)    |    [Edge of Darkness](https://ladymourningdove.itch.io/edge-of-darkness)    |    [Aux Chord](https://cltsd27.itch.io/aux-chord)</b>
+  ### [Shadowrought](https://aipatch.itch.io/shadowrought) | [Edge of Darkness](https://ladymourningdove.itch.io/edge-of-darkness) | [Aux Chord](https://cltsd27.itch.io/aux-chord)</b>
 
 ___
   <picture><img src="https://github-readme-stats.vercel.app/api?username=Arhxxr&show_icons=true&hide=contribs,issues&theme=radical&hide_border=true" height=175></picture>
