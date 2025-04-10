@@ -14,7 +14,7 @@
     
 ___
   ### Languages and Tools
-  <img src="https://skillicons.dev/icons?i=py,c,cs,cpp,java,js,kotlin,html,css,mysql,nodejs,react,unity,unreal" />
+  <img src="https://skillicons.dev/icons?i=py,c,cs,cpp,java,js,kotlin,html,css,mysql,nodejs,react,unity,unreal&perline=7" />
   <p>
     <br/>
     <img alt="OpenGL" src="https://img.shields.io/badge/OpenGL-FFFFFF?style=for-the-badge&logo=opengl" />
