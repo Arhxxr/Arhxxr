@@ -1,6 +1,7 @@
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/4eb8bbe5-5972-4923-a77d-096b66a9afa0" width=810/>
+  <img src="https://github.com/user-attachments/assets/2cb64e46-a07e-4e6d-907a-26044753d076" width=810/>
+
 
   # <img src="https://emojis.slackmojis.com/emojis/images/1643515329/13477/abra_pokemon.gif?1643515329" width="40"/>Hi! I'm Arham‎‎‎
   
