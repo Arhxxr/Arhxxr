@@ -55,9 +55,7 @@ ___
   ### Try out some of the games I've worked on</h3>
   <b>
   
-  [Shadowrought](https://aipatch.itch.io/shadowrought)    |   
-  [Edge of Darkness](https://ladymourningdove.itch.io/edge-of-darkness)    |   
-  [Aux Chord](https://cltsd27.itch.io/aux-chord)
+  ### [Shadowrought](https://aipatch.itch.io/shadowrought)    |    [Edge of Darkness](https://ladymourningdove.itch.io/edge-of-darkness)    |    [Aux Chord](https://cltsd27.itch.io/aux-chord)
   <br/></b>
 
 ___
