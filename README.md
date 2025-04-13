@@ -4,9 +4,6 @@
 
 
   # <img src="https://emojis.slackmojis.com/emojis/images/1643515329/13477/abra_pokemon.gif?1643515329" width="40"/>Hi! I'm Arham‎‎‎
-  
-  <img src="https://emojis.slackmojis.com/emojis/images/1643515368/13863/magicwand_green.gif?1643515368" width="15"/> Bridging logic and creativity
-  <br/>Trying to create meaningful digital experiences
 
   ## Connect with me
   ### [arhssr.co](http://arhssr.co/)<br/>
