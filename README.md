@@ -3,7 +3,7 @@
   <img src="https://github.com/user-attachments/assets/2cb64e46-a07e-4e6d-907a-26044753d076" width=810/>
 
 
-  # <img src="https://emojis.slackmojis.com/emojis/images/1643515329/13477/abra_pokemon.gif?1643515329" width="40"/>Hi! I'm Arham‎‎‎
+  # <img src="https://emojis.slackmojis.com/emojis/images/1643515329/13477/abra_pokemon.gif?1643515329" width="40"/>Hi!
   ### [arhssr.co](http://arhssr.co/)<br/>
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arham-shams-sameer)   [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arhamssameer@gmail.com)   [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://www.behance.net/gallery/151828853/Art-Portfolio-2022)
     
